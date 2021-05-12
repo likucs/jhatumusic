@@ -52,7 +52,7 @@ async def addchannel(client, message):
         print(e)
         await message.reply_text(
             f"<b>User {user.first_name} couldn't join your group! Make sure user is not banned in group."
-            "\n\nOr manually add @GalaxyAssistant to your Group and try again</b>",
+            "\n\nOr manually add @likuGF to your Group and try again</b>",
         )
         return
     await message.reply_text(
