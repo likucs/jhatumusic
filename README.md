@@ -52,3 +52,8 @@
 Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGenRobot) Or [Pyrogram](ahavaleka.com) to get pyrogram string session
 
 # Creadit
+-- likucs (Dev)
+-- Jhatu420
+-- My group -https://t.me/ourbots1
+
+Deploy your own bot and Fu#k Off
