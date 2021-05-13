@@ -1,8 +1,8 @@
-<h1 align="centre">GalaxyMusic V3 🎵</h1>
+<h1 align="centre">CS MISIC 🎵</h1>
 
 ### A bot that can play music on telegram group's voice call
 
-# Available on telegram as @GalaxyMusicPlaybot
+# Available on telegram as @LikuCsmusicbot
 
 <p align="center">
   <img src="khttps://telegra.ph/file/dd0k4b1968f1bc1169d162.jpg">
