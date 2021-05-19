@@ -54,7 +54,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🎙️ 𝘽𝙚𝙨𝙩 𝙁𝙤𝙧𝙚𝙫𝙚𝙧 ••• 🎙️", url="https://t.me/GalaxyLanka")
+                        "🎙️ 𝘽𝙚𝙨𝙩 𝙁𝙤𝙧𝙚𝙫𝙚𝙧 ••• 🎙️", url= "https://t.me/ourbots1")
                 ]
             ]
         )
